@@ -1,1 +1,1 @@
-# lightning_multigpu_ncc_Turkiye
+# Lightning on HPC-Leonardo
