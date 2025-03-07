@@ -1,1 +1,1 @@
-# Lightning on HPC-Leonardo
+# Lightning on HPC
